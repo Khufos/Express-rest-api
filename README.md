@@ -2,6 +2,8 @@
 # 
 
 > ## **//// Status code e Middlewares ////**
+![Interface](https://github.com/Khufos/Express-rest-api/blob/main/Screenshot_2.png)
+
 > ## 🔗 Comando básicos para iniciar o projeto 
 > 
 > Crie uma pasta com um nome à sua escolha dentro dessa pasta dê o comando
