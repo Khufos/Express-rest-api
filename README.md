@@ -39,7 +39,7 @@ npm install nodemon
 ```console
 node src/index.js
 ```
->Porém existe um caminho mais facil para start sua aplicação 
+>Porém existe um caminho mais facil para start sua aplicação dentro do arquivo package.json modifique essa linha abaixo .
 ```
 {
   "name": "modulo03",
