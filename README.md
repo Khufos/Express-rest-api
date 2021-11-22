@@ -44,7 +44,7 @@ node src/index.js
 >Porém existe um caminho mais facil para start sua aplicação dentro do arquivo package.json modifique essa linha abaixo .
 ```
 {
-  "name": "modulo03",
+  "name": "app-rest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
